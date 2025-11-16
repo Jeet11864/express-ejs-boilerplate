@@ -17,4 +17,22 @@ A minimal Express.js boilerplate using EJS as the templating engine. This setup 
 ---
 
 ## 📁 Project Structure
+my-express-ejs/
+├─ package.json
+├─ .env
+├─ .gitignore
+├─ app.js
+├─ routes/
+│  └─ index.js
+├─ views/
+│  ├─ layout.ejs
+│  ├─ index.ejs
+│  └─ partials/
+│     ├─ header.ejs
+│     └─ footer.ejs
+├─ public/
+│  ├─ css/
+│  │  └─ main.css
+│  └─ js/
+│     └─ main.js
 
