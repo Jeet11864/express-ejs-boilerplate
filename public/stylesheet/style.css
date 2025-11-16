@@ -1,0 +1,19 @@
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial;
+  margin: 0;
+  padding: 0;
+}
+.site-header {
+  background: #f4f4f4;
+  padding: 1rem;
+}
+.hero {
+  padding: 2rem;
+}
+.site-footer {
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+  color: #666;
+}
